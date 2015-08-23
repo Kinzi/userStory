@@ -1,2 +1,2 @@
 # userStory
-Just a little tutorial result.
+Just the result from a MEAN tutorial.
